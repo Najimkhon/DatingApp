@@ -1,8 +1,0 @@
-{
-    "editor.fontSize": 17,
-    "csharpextensions.privateMemberPrefix": "_",
-    "csharpextensions.useThisForCtorAssignments": false,
-    "files.exclude": {
-        "": true
-    }
-}
